@@ -25,3 +25,4 @@ def print_value(arr: list) -> list: # фунция вывода инвертир
 arr = numbers()
 print(arr)
 print_value(arr)
+# Вношу изменения, но я не хочу портить свой код
