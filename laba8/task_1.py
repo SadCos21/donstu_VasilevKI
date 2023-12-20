@@ -1,4 +1,5 @@
 from random import randint
+print('Hello, world!')
 
 def InvertDigits(K: int) -> int: # фунция перестановки цифр в обратном порядке в числе
     temp = 0
